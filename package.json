@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-tts-notification",
+  "version": "0.3.0",
+  "description": "Cordova Text-to-Speech Notification Plugin",
+  "cordova": {
+    "id": "cordova-plugin-tts-notification",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kn4rfy/cordova-plugin-tts-notification.git"
+  },
+  "keywords": [
+    "cordova",
+    "tts",
+    "text-to-speech",
+    "notifications",
+    "local-notifications",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "FRANCIS KNARFY ELOPRE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kn4rfy/cordova-plugin-tts-notification/issues"
+  },
+  "homepage": "https://github.com/kn4rfy/cordova-plugin-tts-notification#readme"
+}
